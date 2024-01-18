@@ -65,7 +65,7 @@ class Ponto:
         self.saida_tarde = saida_tarde
 ```
 
-### Overengineering e Alternativas:
+### Overengineering:
 
 O título "Experimento em Overengineering" sugere uma abordagem deliberadamente complexa para o problema em questão. Embora a Clean Architecture promova uma estrutura modular e de fácil manutenção, em alguns casos, um monólito pode ser mais eficaz para problemas simples ou de escala limitada.
 
