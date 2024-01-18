@@ -52,7 +52,7 @@ O método `procurar_inconsistencias` nesta implementação deveria conter a lóg
 
 ### 3. Entidade `Ponto`:
 
-A entidade `Ponto` representa os pontos de atendimento de um funcionário:
+A entidade `Ponto` representa os pontos de um funcionário:
 
 ```python
 # Definição da entidade no pacote core
