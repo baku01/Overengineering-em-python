@@ -48,7 +48,7 @@ class PontoGatewayImpl(PontoGateway):
         pass
 ```
 
-O método `procurar_inconsistencias` nesta implementação deveria conter a lógica para procurar inconsistências nos pontos de atendimento.
+O método `procurar_inconsistencias` nesta implementação deveria conter a lógica para procurar inconsistências nos pontos.
 
 ### 3. Entidade `Ponto`:
 
