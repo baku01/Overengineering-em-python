@@ -17,7 +17,7 @@ Sinta-se à vontade para examinar o código, fazer alterações e experimentar. 
 
 ### 1. Interface `PontoGateway`:
 
-A interface `PontoGateway` define o contrato para procurar inconsistências nos pontos de atendimento:
+A interface `PontoGateway` define o contrato para procurar inconsistências nos pontos:
 
 ```python
 # PontoGateway interface no pacote gateway
