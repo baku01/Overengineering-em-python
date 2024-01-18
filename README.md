@@ -71,4 +71,4 @@ O título "Experimento em Overengineering" sugere uma abordagem deliberadamente 
 
 A aplicação dos princípios de Clean Architecture é valiosa, mas é crucial equilibrar a complexidade da arquitetura com a real necessidade do projeto. Em muitos casos, um monólito pode ser mais simples e eficiente, evitando a sobrecarga associada a uma arquitetura mais complexa.
 
-Este experimento serve como uma oportunidade de aprendizado para explorar diferentes abordagens arquiteturais e entender quando aplicar ou não os princípios de overengineering. A melhor escolha dependerá sempre do contexto específico do projeto e dos requisitos.
+Este experimento serve como uma oportunidade de aprendizado para explorar diferentes abordagens arquiteturais e entender quando aplicar ou não os princípios de uma determinada arquitetura. A melhor escolha dependerá sempre do contexto específico do projeto e dos requisitos.
